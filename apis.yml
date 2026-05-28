@@ -1,0 +1,32 @@
+aid: eli
+name: ELI
+description: "Natural Language Processing Tools for Thai Language"
+url: https://nlp.insightera.co.th/docs/v1.0
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Text Analysis"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Text Analysis
+  - Public APIs
+apis:
+  - name: ELI
+    description: "Natural Language Processing Tools for Thai Language"
+    humanURL: https://nlp.insightera.co.th/docs/v1.0
+    baseURL: https://nlp.insightera.co.th/docs/v1.0
+    tags:
+      - Text Analysis
+    properties:
+      - type: Documentation
+        url: https://nlp.insightera.co.th/docs/v1.0
+common:
+  - type: Website
+    url: https://nlp.insightera.co.th/docs/v1.0
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
