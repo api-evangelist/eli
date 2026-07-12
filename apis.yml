@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://nlp.insightera.co.th/docs/v1.0
 common:
+  - type: DomainSecurity
+    url: security/eli-domain-security.yml
   - type: Website
     url: https://nlp.insightera.co.th/docs/v1.0
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - type: Blog
+    url: https://medium.com/feed/insightera
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
