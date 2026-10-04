@@ -39,7 +39,6 @@ apis:
   - name: ELI
     description: "Natural Language Processing Tools for Thai Language"
     humanURL: https://nlp.insightera.co.th/docs/v1.0
-    baseURL: https://nlp.insightera.co.th/docs/v1.0
     tags:
       - Text Analysis
     properties:
