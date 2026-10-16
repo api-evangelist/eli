@@ -2,21 +2,21 @@
   "repo": "eli",
   "feeds": [
     {
-      "source": "https://github.com/public-apis/public-apis",
-      "feed_url": "https://github.com/public-apis/public-apis",
-      "title": "",
-      "saved": 0,
-      "method": "none"
-    },
-    {
       "source": "https://medium.com/feed/insightera",
       "feed_url": "https://medium.com/feed/insightera",
       "title": "",
       "saved": 0,
       "method": "feed"
+    },
+    {
+      "source": "https://github.com/public-apis/public-apis",
+      "feed_url": "https://github.com/public-apis/public-apis",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "fetched": "2026-10-03T12:30:02Z",
+  "fetched": "2026-10-10T13:15:00Z",
   "post_count": 11,
   "feed_nature": "undetermined",
   "feed_nature_basis": null,
